@@ -1,8 +1,8 @@
-#Relatório do TP1
-##Data: 2024-09-09
-##Autor: Ana Teresa Ribeiro
+# Relatório do TP1
+## Data: 2024-09-09
+## Autor: Ana Teresa Ribeiro
 
-##Resumo
+## Resumo
 
 O TP1 consistiu na realização de dois exercícios do Blockly Games:
 Resolver o exercício 10 do Maze
