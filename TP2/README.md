@@ -5,4 +5,6 @@
 ## Resumo
 Consistiu na realização de um exercício com o objetivo de criar um programa em Python para jogar o jogo "Adivinha o número".
 
-dsdfb
+O computador pensa num número (entre 0 e 100) e o utilizador tenta adivinhar;
+
+
