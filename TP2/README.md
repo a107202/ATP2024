@@ -7,4 +7,7 @@ Consistiu na realização de um exercício com o objetivo de criar um programa e
 
 O computador pensa num número (entre 0 e 100) e o utilizador tenta adivinhar;
 
+Quem tenta divinhar o número responde com uma das afirmações: "Acertou", "O número em que pensei é Maior" ou "O número em que pensei é Menor";
+
+Uma vez descoberto o número, o programa deverá terminar imprimindo o número de tentativas que quem adivinhou usou para chegar ao resultado.
 
