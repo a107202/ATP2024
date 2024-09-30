@@ -3,7 +3,7 @@
 ## Autor: Ana Teresa Ribeiro
 
 ## Resumo
-Consistiu na realização de um exercício com o objetivo de criar um código em Python para jogar "O jogo dos 21 fósforos".
+Consistiu na realização de um exercício com o objetivo de criar um código em Python para jogar "O jogo dos 21 fósforos":
 
 ### O jogo
 
