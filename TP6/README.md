@@ -3,7 +3,7 @@
 ## Autor: Ana Teresa Ribeiro
 
 ## Resumo
-Consistiu na realização de um exercício com o objetivo de criar, em python,uma aplicação para gestão de alunos que tem como objeetivo:
+Consistiu na realização de um exercício com o objetivo de criar, em python,uma aplicação para gestão de alunos que tem como objetivo:
 * Criar uma aplicação que coloca no monitor o seguinte menu de operações:
     - 1: Criar uma turma;
     - 2: Inserir um aluno na turma;
