@@ -329,8 +329,3 @@ https://freesimplegui.readthedocs.io/en/stable/
 https://docs.pysimplegui.com/en/latest/documentation/module/themes/
 - ⁠para a escrita do relatório em Markdown
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-
-.
-
-
